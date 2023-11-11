@@ -22,6 +22,3 @@ Defines the `CounterWidget` as a stateful widget that displays a counter, allowi
 
 ## Running the App
 Upon running the app, you'll see a greeting message followed by a counter section. The greeting message is displayed in a styled manner using the `GreetingWidget`, while the `CounterWidget` demonstrates a functional incrementing counter with a button.
-
-Feel free to modify and expand the widget tree or styles as per your requirements!
-
